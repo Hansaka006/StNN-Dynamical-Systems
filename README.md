@@ -4,7 +4,7 @@ This repository contains the implementation of a structured neural network (StNN
 
 
 For more information on the theory behind the algorithms, refer to the following resources:
-[Paper]([https://arxiv.org/abs/2503.20694](https://arxiv.org/abs/2503.23697))
+[Paper](https://arxiv.org/abs/2503.20694](https://arxiv.org/abs/2503.23697))
 
 ## 📚 Citation
 
